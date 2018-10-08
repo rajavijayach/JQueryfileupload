@@ -1,7 +1,7 @@
 # jQuery File Upload Plugin
 
-## Demo
-[Demo File Upload](https://blueimp.github.io/jQuery-File-Upload/)
+## Screenshot
+![alt text](https://github.com/rajavijayasaradhi/JQueryfileupload/blob/master/screenshot.png)
 
 ## Description
 File Upload widget with multiple file selection, drag&amp;drop support, progress bars, validation and preview images, audio and video for jQuery.  
